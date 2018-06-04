@@ -1,0 +1,7 @@
+# Visual Studio Code internal files.
+.vscode/
+
+# Build files.
+build/
+grapher
+
